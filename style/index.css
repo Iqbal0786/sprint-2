@@ -1,0 +1,19 @@
+#navBarDiv{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #08345b;
+    border-radius: 10px;
+}
+#rhs{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+#rhs > p{
+ cursor: pointer;
+ color: white;
+ font-size: 20px;
+}
